@@ -1,0 +1,115 @@
+.navbar {
+  margin: 0 auto;
+  padding: 1rem 2rem;
+  width: 100vw;
+  height: 4rem;
+  max-width: 75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  background: rgb(30, 30, 30);
+}
+
+.navMenuListList {
+  cursor: pointer;
+  margin: 1rem;
+}
+
+.navMenuListList:hover {
+  color: yellow;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid yellow;
+}
+
+.ListItem:hover {
+  color: yellow;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid yellow;
+}
+
+.navMenuList {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100vw;
+}
+
+.navMenuList > a {
+  color: white;
+}
+.navResumeBtn {
+  background: white;
+  color: black;
+  font-size: 1rem;
+  border: none;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 0 1rem;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+
+.navResumeImg {
+  width: 1rem;
+  height: 1rem;
+  margin: 1rem;
+  object-fit: cover;
+}
+
+.active {
+  color: yellow;
+  padding: 0.5rem;
+  border-bottom: 3px solid yellow;
+}
+
+.burgerMenu {
+  display: none;
+  object-fit: cover;
+  height: 1.8rem;
+}
+
+.burgerIcon {
+  width: 100vw;
+  display: none;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.burgerNavMenu {
+  position: absolute;
+  top: 4rem;
+  right: 2rem;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem;
+  height: fit-content;
+  min-width: 15rem;
+  background: rgb(40, 40, 40);
+  border-radius: 1rem;
+}
+
+.ListItem {
+  color: white;
+  padding: 0.5rem 3rem;
+  margin: 0.25rem;
+  background: rgb(30, 30, 30);
+}
+
+@media screen and (max-width: 720px) {
+  .burgerMenu {
+    display: flex;
+  }
+  .navMenuList,
+  .navResumeBtn {
+    display: none;
+  }
+
+  .burgerIcon {
+    display: flex;
+  }
+}
