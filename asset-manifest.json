@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/myPortfolio.io/static/css/main.3f661c06.css",
+    "main.js": "/myPortfolio.io/static/js/main.aef1c09c.js",
+    "static/media/ArabiFood.png": "/myPortfolio.io/static/media/ArabiFood.15cb62c9bcb4994441b9.png",
+    "static/media/ChristmasGame.png": "/myPortfolio.io/static/media/ChristmasGame.6a2b160cc0b394d141ef.png",
+    "static/media/portfolioImg1.png": "/myPortfolio.io/static/media/portfolioImg1.c48bfbc1fab29d7a29a6.png",
+    "static/media/PicturesSlider.png": "/myPortfolio.io/static/media/PicturesSlider.53526b81de4c5ff1bbbe.png",
+    "static/media/TreasureHuntGame.png": "/myPortfolio.io/static/media/TreasureHuntGame.92c5e2f41b9ce4c6ce28.png",
+    "static/media/Weather-App.png": "/myPortfolio.io/static/media/Weather-App.f0ac8999983b2511b8ab.png",
+    "static/media/resume.pdf": "/myPortfolio.io/static/media/resume.b53318d6f69629f6e4bd.pdf",
+    "static/media/html.png": "/myPortfolio.io/static/media/html.4b0ecacce79fde289354.png",
+    "static/media/nextjs.png": "/myPortfolio.io/static/media/nextjs.12239c5d1e0858e27a58.png",
+    "static/media/TooDo.png": "/myPortfolio.io/static/media/TooDo.023fc449cf2855193d83.png",
+    "static/media/twitter.png": "/myPortfolio.io/static/media/twitter.93ac3f9a344ecd5d01a4.png",
+    "static/media/reactjs.png": "/myPortfolio.io/static/media/reactjs.9b7555d0232a2a8dabf9.png",
+    "static/media/linkedin.png": "/myPortfolio.io/static/media/linkedin.17e919bb623c20be8b80.png",
+    "static/media/github.png": "/myPortfolio.io/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/facebook.png": "/myPortfolio.io/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "static/media/mysql.png": "/myPortfolio.io/static/media/mysql.8ea9872d161618e9e22f.png",
+    "static/media/sendme.png": "/myPortfolio.io/static/media/sendme.b022782a53ebf91a71a7.png",
+    "index.html": "/myPortfolio.io/index.html",
+    "static/media/burger_menu_icon.svg": "/myPortfolio.io/static/media/burger_menu_icon.f70715ac5907468b0d33cd8c5f10efb0.svg",
+    "main.3f661c06.css.map": "/myPortfolio.io/static/css/main.3f661c06.css.map",
+    "main.aef1c09c.js.map": "/myPortfolio.io/static/js/main.aef1c09c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f661c06.css",
+    "static/js/main.aef1c09c.js"
+  ]
+}
