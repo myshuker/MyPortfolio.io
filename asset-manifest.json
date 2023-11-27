@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/myPortfolio.io/static/css/main.3f661c06.css",
-    "main.js": "/myPortfolio.io/static/js/main.aef1c09c.js",
+    "main.js": "/myPortfolio.io/static/js/main.4d80c8e4.js",
     "static/media/ArabiFood.png": "/myPortfolio.io/static/media/ArabiFood.15cb62c9bcb4994441b9.png",
-    "static/media/ChristmasGame.png": "/myPortfolio.io/static/media/ChristmasGame.6a2b160cc0b394d141ef.png",
+    "static/media/ChristmasGame.png": "/myPortfolio.io/static/media/ChristmasGame.e80a99d2916a7bff7a6f.png",
     "static/media/portfolioImg1.png": "/myPortfolio.io/static/media/portfolioImg1.c48bfbc1fab29d7a29a6.png",
     "static/media/PicturesSlider.png": "/myPortfolio.io/static/media/PicturesSlider.53526b81de4c5ff1bbbe.png",
     "static/media/TreasureHuntGame.png": "/myPortfolio.io/static/media/TreasureHuntGame.92c5e2f41b9ce4c6ce28.png",
@@ -22,10 +22,10 @@
     "index.html": "/myPortfolio.io/index.html",
     "static/media/burger_menu_icon.svg": "/myPortfolio.io/static/media/burger_menu_icon.f70715ac5907468b0d33cd8c5f10efb0.svg",
     "main.3f661c06.css.map": "/myPortfolio.io/static/css/main.3f661c06.css.map",
-    "main.aef1c09c.js.map": "/myPortfolio.io/static/js/main.aef1c09c.js.map"
+    "main.4d80c8e4.js.map": "/myPortfolio.io/static/js/main.4d80c8e4.js.map"
   },
   "entrypoints": [
     "static/css/main.3f661c06.css",
-    "static/js/main.aef1c09c.js"
+    "static/js/main.4d80c8e4.js"
   ]
 }
