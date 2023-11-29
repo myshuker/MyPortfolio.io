@@ -15,41 +15,132 @@ function Projects() {
   return (
     <section id="projects">
       <h2 className="projectsTitle"> My Projects</h2>
-      {/*       <span className="projectDesc">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
-        itaque ex illo magni voluptatum dolorem commodi. Atque possimus tenetur
-        nobis pariatur impedit exercitationem a, et iure. Nam animi voluptas
-        explicabo!
-      </span>
-       */}
+
       <div className="projectsImags">
-        <div>
-          <img src={ArabiFood} className="projectImg" alt="ArabiFood" />
-          <h3> Arabi Food Restaurant</h3>
-        </div>{" "}
-        <div>
-          <img src={TreasureHuntGame} className="projectImg" alt="TreasureHunt" />
-          <h3> Treasure Hunt Game for children</h3>
-        </div>
- 
-        <div>
-          <img src={TooDo} className="projectImg" alt="ToDo" />
-          <h3> ToDo List</h3>
-        </div>{" "}
-
-        <div>
-          <img src={Weather} className="projectImg" alt="WeatherApp" />
-          <h3> A Weather app</h3>
-        </div>{" "}
-
-        <div>
-          <img src={PicturesSlider} className="projectImg" alt="PicturesSlider" />
-          <h3> Pictures Slider </h3>
-        </div>
-
-        <div>
+        <div className="projectCard">
           <img src={ChristmasGame} className="projectImg" alt="ChristmasGame" />
-          <h3>Christmas Game</h3>
+          <div className="projectDesc">
+            <a
+              href="https://github.com/myshuker/Christmas-Calendar-game"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Code{" "}
+            </a>{" "}
+            <h3>Christmas Game</h3>
+            <a
+              href="https://myshuker.github.io/Christmas-Calendar-game"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Live
+            </a>
+          </div>
+        </div>
+        <div className="projectCard">
+          <img src={TooDo} className="projectImg" alt="ToDo" />
+
+          <div className="projectDesc">
+            <a
+              href="https://github.com/myshuker/ToDoList2"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Code{" "}
+            </a>{" "}
+            <h3> ToDo List</h3>
+            <a
+              href="https://myshuker.github.io/ToDoList2/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Live
+            </a>
+          </div>
+        </div>{" "}
+        <div className="projectCard">
+          <img
+            src={PicturesSlider}
+            className="projectImg"
+            alt="PicturesSlider"
+          />
+          <div className="projectDesc">
+            <a
+              href="https://github.com/myshuker/PicturesSlider"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Code{" "}
+            </a>{" "}
+            <h3> Pictures Slider </h3>
+            <a
+              href="https://myshuker.github.io/PicturesSlider/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Live
+            </a>
+          </div>
+        </div>
+        <div className="projectCard">
+          <img src={Weather} className="projectImg" alt="WeatherApp" />
+
+          <div className="projectDesc">
+            <a
+              href="https://github.com/myshuker/Weather-App"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Code{" "}
+            </a>{" "}
+            <h3> A Weather app</h3>
+            <a
+              href="https://myshuker.github.io/Weather-App/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Live
+            </a>
+          </div>
+        </div>{" "}
+        <div className="projectCard">
+          <img src={ArabiFood} className="projectImg" alt="ArabiFood" />
+          <div className="projectDesc">
+            <a
+              href="https://github.com/myshuker/ArabiFoodTapas"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Code{" "}
+            </a>
+
+            <h3> Arabi Food Restaurant</h3>
+
+            <a href="#" target="_blank" rel="noreferrer">
+              Live
+            </a>
+          </div>
+        </div>
+        <div className="projectCard">
+          <img
+            src={TreasureHuntGame}
+            className="projectImg"
+            alt="TreasureHunt"
+          />
+
+          <div className="projectDesc">
+            <a
+              href="https://github.com/myshuker/ArabiFoodTapas"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Code{" "}
+            </a>{" "}
+            <h3> Treasure Hunt</h3>
+            <a href="#" target="_blank" rel="noreferrer">
+              Live
+            </a>
+          </div>
         </div>
         {/* 
 
@@ -84,9 +175,9 @@ function Projects() {
         </div>
          */}
       </div>
-      <button className="projectsBtn" onClick={seeMoreProjectsHandler}>
+      {/*    <button className="projectsBtn" onClick={seeMoreProjectsHandler}>
         See More
-      </button>
+        </button>   */}
     </section>
   );
 }

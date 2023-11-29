@@ -10,19 +10,24 @@
   text-align: center;
 }
 
-.fsfd {
-  min-height: calc(100vh- 4rem);
-}
-
 .projectsTitle {
   margin: 1rem 0;
   font-size: 3rem;
 }
 
 .projectDesc {
-  font-size: 1rem;
+  margin-top: -2.5rem;
+  font-size: 0.85rem;
   font-weight: 300;
-  max-width: 45rem;
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  color: yellow;
+}
+.projectDesc > a {
+  color: yellow;
+  font-size: 1rem;
+  font-weight: 400;
 }
 
 .projectsImags {
@@ -32,6 +37,10 @@
   justify-content: center;
   width: 100vw;
   max-width: 65rem;
+}
+
+.projectCard {
+  margin-bottom: 1.5rem;
 }
 
 .projectImg {
