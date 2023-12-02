@@ -1,8 +1,7 @@
 import React, { useRef } from "react";
 import "./Contact.css";
 import linkd from "../../assets/images/linkedin.png";
-import facebk from "../../assets/images/facebook.png";
-import twitter from "../../assets/images/twitter.png";
+import freecodecamp from "../../assets/images/freecodecamp.png";
 import github from "../../assets/images/github.png";
 import sendme from "../../assets/images/sendme.png";
 import emailjs from "@emailjs/browser";
@@ -75,11 +74,13 @@ function Contact() {
         >
           <img src={linkd} alt="" className="socialMediaIcon" />
         </a>
-        <a href="https://github.com/myshuker" target="_blank" rel="noreferrer">
-          <img src={facebk} alt="" className="socialMediaIcon" />
-        </a>
-        <a href="https://github.com/myshuker" target="_blank" rel="noreferrer">
-          <img src={twitter} alt="" className="socialMediaIcon" />
+
+        <a
+          href="https://www.freecodecamp.org/myshuker"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img src={freecodecamp} alt="" className="socialMediaIcon" />
         </a>
         <a href="https://github.com/myshuker" target="_blank" rel="noreferrer">
           <img src={github} alt="" className="socialMediaIcon" />

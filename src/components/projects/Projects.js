@@ -130,14 +130,18 @@ function Projects() {
 
           <div className="projectDesc">
             <a
-              href="https://github.com/myshuker/ArabiFoodTapas"
+              href="https://github.com/myshuker/Treasure-Hent-Game"
               target="_blank"
               rel="noreferrer"
             >
               Code{" "}
             </a>{" "}
             <h3> Treasure Hunt</h3>
-            <a href="https://www.feats.co/project/treasure-hunt-game" target="_blank" rel="noreferrer">
+            <a
+              href="https://www.feats.co/project/treasure-hunt-game"
+              target="_blank"
+              rel="noreferrer"
+            >
               Live
             </a>
           </div>
