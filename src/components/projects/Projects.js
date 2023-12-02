@@ -137,7 +137,7 @@ function Projects() {
               Code{" "}
             </a>{" "}
             <h3> Treasure Hunt</h3>
-            <a href="#" target="_blank" rel="noreferrer">
+            <a href="https://www.feats.co/project/treasure-hunt-game" target="_blank" rel="noreferrer">
               Live
             </a>
           </div>
