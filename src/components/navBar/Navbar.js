@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./Navbar.css";
 import burgerMenu from "../../assets/images/burger_menu_icon.svg";
-import resume from "../../assets/images/resume.png";
 import { Link } from "react-scroll";
 import myResume from "../../assets/resume/resume.pdf";
 
@@ -62,20 +61,15 @@ function Navbar() {
           {" "}
           Contact Me{" "}
         </Link>{" "}
-        <a href={myResume} target="_blank" rel="noreferrer"  className="navMenuListList">
+        <a
+          href={myResume}
+          target="_blank"
+          rel="noreferrer"
+          className="navMenuListList"
+        >
           Resume
         </a>
       </div>
-
-      {/*
-      <button className="navResumeBtn">
-        <img src={resume} className="navResumeImg" alt="Resume_img" />
-        <a href={myResume} target="_blank">
-          {" "}
-          Download Resume
-        </a>
-      </button>
-*/}
 
       {/*     ------ Mobile Responsive Mode ------     */}
 
@@ -138,9 +132,14 @@ function Navbar() {
           >
             Contact
           </Link>
-          <a href={myResume} target="_blank" rel="noreferrer"  className="ListItem">
-          Resume
-        </a>
+          <a
+            href={myResume}
+            target="_blank"
+            rel="noreferrer"
+            className="ListItem"
+          >
+            Resume
+          </a>
         </div>
       </div>
     </nav>
