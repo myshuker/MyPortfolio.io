@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myPortfolio.io/static/css/main.51fc6f3b.css",
-    "main.js": "/myPortfolio.io/static/js/main.578b8541.js",
-    "static/media/portfolioImg1.png": "/myPortfolio.io/static/media/portfolioImg1.c48bfbc1fab29d7a29a6.png",
+    "main.js": "/myPortfolio.io/static/js/main.1867dca9.js",
+    "static/media/portfolioImg.png": "/myPortfolio.io/static/media/portfolioImg.c48bfbc1fab29d7a29a6.png",
     "static/media/ArabiFood.png": "/myPortfolio.io/static/media/ArabiFood.6b9fdb76c3dfd2858c6d.png",
     "static/media/PicturesSlider.png": "/myPortfolio.io/static/media/PicturesSlider.361b7832f84dd406a24b.png",
     "static/media/ChristmasGame.png": "/myPortfolio.io/static/media/ChristmasGame.f0c8e20f6af051359160.png",
@@ -10,7 +10,7 @@
     "static/media/Weather-App.png": "/myPortfolio.io/static/media/Weather-App.63fb64aa35987aa3b1dd.png",
     "static/media/resume.pdf": "/myPortfolio.io/static/media/resume.78c9d8330950f8f5716d.pdf",
     "static/media/TooDo.png": "/myPortfolio.io/static/media/TooDo.6f09041e2be0164cc23d.png",
-    "static/media/freecodecamp.png": "/myPortfolio.io/static/media/freecodecamp.20b24e0054e34171bb2e.png",
+    "static/media/freecodecamp.png": "/myPortfolio.io/static/media/freecodecamp.36883877ab0bd831b55a.png",
     "static/media/html.png": "/myPortfolio.io/static/media/html.4b0ecacce79fde289354.png",
     "static/media/nextjs.png": "/myPortfolio.io/static/media/nextjs.12239c5d1e0858e27a58.png",
     "static/media/reactjs.png": "/myPortfolio.io/static/media/reactjs.9b7555d0232a2a8dabf9.png",
@@ -21,10 +21,10 @@
     "index.html": "/myPortfolio.io/index.html",
     "static/media/burger_menu_icon.svg": "/myPortfolio.io/static/media/burger_menu_icon.f70715ac5907468b0d33cd8c5f10efb0.svg",
     "main.51fc6f3b.css.map": "/myPortfolio.io/static/css/main.51fc6f3b.css.map",
-    "main.578b8541.js.map": "/myPortfolio.io/static/js/main.578b8541.js.map"
+    "main.1867dca9.js.map": "/myPortfolio.io/static/js/main.1867dca9.js.map"
   },
   "entrypoints": [
     "static/css/main.51fc6f3b.css",
-    "static/js/main.578b8541.js"
+    "static/js/main.1867dca9.js"
   ]
 }
