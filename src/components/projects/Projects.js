@@ -6,6 +6,7 @@ import TooDo from "../../assets/images/TooDo.png";
 import Weather from "../../assets/images/Weather-App.png";
 import PicturesSlider from "../../assets/images/PicturesSlider.png";
 import ChristmasGame from "../../assets/images/ChristmasGame.png";
+import TicTacToe from "../../assets/images/TicTacToe-Game.png";
 
 function Projects() {
   const seeMoreProjectsHandler = () => {
@@ -30,6 +31,26 @@ function Projects() {
             <h3>Christmas Game</h3>
             <a
               href="https://myshuker.github.io/Christmas-Calendar-game"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Live
+            </a>
+          </div>
+        </div>
+        <div className="projectCard">
+          <img src={TicTacToe} className="projectImg" alt="TicTacToe-Game" />
+          <div className="projectDesc">
+            <a
+              href="https://github.com/myshuker/TicTacToe-Game"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Code{" "}
+            </a>{" "}
+            <h3>TicTacToe-Game</h3>
+            <a
+              href="https://myshuker.github.io/TicTacToe-Game"
               target="_blank"
               rel="noreferrer"
             >
