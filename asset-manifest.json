@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myPortfolio.io/static/css/main.51fc6f3b.css",
-    "main.js": "/myPortfolio.io/static/js/main.1867dca9.js",
+    "main.js": "/myPortfolio.io/static/js/main.9c69c9ee.js",
     "static/media/portfolioImg.png": "/myPortfolio.io/static/media/portfolioImg.c48bfbc1fab29d7a29a6.png",
     "static/media/ArabiFood.png": "/myPortfolio.io/static/media/ArabiFood.6b9fdb76c3dfd2858c6d.png",
     "static/media/PicturesSlider.png": "/myPortfolio.io/static/media/PicturesSlider.361b7832f84dd406a24b.png",
@@ -13,6 +13,7 @@
     "static/media/freecodecamp.png": "/myPortfolio.io/static/media/freecodecamp.36883877ab0bd831b55a.png",
     "static/media/html.png": "/myPortfolio.io/static/media/html.4b0ecacce79fde289354.png",
     "static/media/nextjs.png": "/myPortfolio.io/static/media/nextjs.12239c5d1e0858e27a58.png",
+    "static/media/TicTacToe-Game.png": "/myPortfolio.io/static/media/TicTacToe-Game.032a93aa19a39842b993.png",
     "static/media/reactjs.png": "/myPortfolio.io/static/media/reactjs.9b7555d0232a2a8dabf9.png",
     "static/media/linkedin.png": "/myPortfolio.io/static/media/linkedin.17e919bb623c20be8b80.png",
     "static/media/github.png": "/myPortfolio.io/static/media/github.a855c3975c028d8069f5.png",
@@ -21,10 +22,10 @@
     "index.html": "/myPortfolio.io/index.html",
     "static/media/burger_menu_icon.svg": "/myPortfolio.io/static/media/burger_menu_icon.f70715ac5907468b0d33cd8c5f10efb0.svg",
     "main.51fc6f3b.css.map": "/myPortfolio.io/static/css/main.51fc6f3b.css.map",
-    "main.1867dca9.js.map": "/myPortfolio.io/static/js/main.1867dca9.js.map"
+    "main.9c69c9ee.js.map": "/myPortfolio.io/static/js/main.9c69c9ee.js.map"
   },
   "entrypoints": [
     "static/css/main.51fc6f3b.css",
-    "static/js/main.1867dca9.js"
+    "static/js/main.9c69c9ee.js"
   ]
 }
